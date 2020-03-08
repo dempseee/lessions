@@ -1,0 +1,4 @@
+Visual Studio Code - https://code.visualstudio.com/
+Github for Windows - https://desktop.github.com/
+NodeJS - https://nodejs.org/en/
+

@@ -1,0 +1,133 @@
+
+This is your very own "Jargon File". Feel free to add more to it as you learn.
+
+
+git
+A source control management tool, for managing different versions of your program.
+
+
+GitHub
+A website for storing your code, and displaying it for others to see. It uses git to store said code.
+
+
+Node
+A program for running JavaScript on the machine, instead of the browser. Often used as a server.
+
+
+npm - Node Package Manager
+A command line tool for downloading JavaScript "packages". I'll teach you about this when we learn how to use Node.
+
+
+VSCode - Visual Studio Code
+Your code editor, an open source editor.
+
+
+Intellisense
+Basically auto-complete for code, good for beginners and people too lazy to type full words.
+
+
+HTML - Hyper Text Markup Language
+There's a lot of debate as to whether it's an actual programming language.
+
+
+JS - JavaScript
+The programming language for your browser. It has nothing to do with the Java programming language.
+
+
+CSS - Cascading Style Sheets
+Used to make things look pretty. It's a complete clusterf*ck.
+
+
+Framework
+These have become extremely prevalent in the last 10 years, to the point where some people are starting to think that smaller sites are using them too much. Frameworks include React, Angular, Vue...
+
+
+Procedural Programming
+The simplest way to program - code is executed from the top of the file to the bottom of the file.
+
+
+OOP - Object Oriented Programming
+One of the main ways to program - Code and data are bound together into indivisible chunks called "objects", and it's these objects that interact with each other.
+
+
+Functional Programming
+One of the oldest ways to program, which seems to be having a comback in popularity. The most complex structure for functional programming is the function.
+
+
+Function
+A piece of code that can be reused over and over again.
+
+
+variable
+A piece of data that can be changed and operated on.
+
+
+constant
+A piece of data that cannot be changed, but is otherwise identical to a variable.
+
+
+Frontend
+The code on the user's machine.
+
+
+Backend
+The code not on the user's machine.
+
+
+Fullstack
+The frontend + backend.
+
+
+Library
+A collection of code written by someone else for a particular purpose.
+
+
+Stack - as in technology stack
+A series of programs and technology built in top of one another. My personal favourite is:
+
+* React (front-end framework, written by Facebook)
+* Redux (supplemental framework for managing data)
+* Bootstrap (CSS framework, written by Twitter)
+* Node (website server)
+* Express (node library for making REST easier to code)
+* MySQL (database)
+* Nginx (proxy server)
+* CentOS (operating System)
+
+
+API - Application Programming Interface
+The "interface" with a library or piece of technology.
+
+
+REST - Representational State Transfer
+If you want to send information from the frontend to the backend, you'll probably use a REST API. Basically looks a little like a URL.
+
+
+Flexbox
+A CSS layout system, my favourite method for laying things out on screen.
+
+
+JSX
+A front-end programming language that looks like JavaScript, HTML and CSS mixed together. Used almost exclusively with React (I think).
+
+
+Transpiler
+This translates code from one language into another, just as JSX into raw JavaScript. I use Babel.
+
+
+Tabs vs. Spaces
+An inane argument from the beginning of time. Tabs are better.
+
+
+TypeScript
+A version of JavaScript that adds strong typing, as well as many other extras.
+
+
+ES6 - ECMAScript version 6
+This is the big turning point for JavaScript, which modernized it more than any other update. It happened in 2015.
+
+
+Syntax Sugar
+A piece of code that replaces an almost identical piece of code, but looks prettier.
+
+
